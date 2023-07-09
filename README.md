@@ -1,4 +1,3 @@
-# C-Mini-Project
+ExpenseTracker
 
-
-An App that helps us keep track of our prsonal budget
+A console app that helps us keep track of personal budgets and expenses.
