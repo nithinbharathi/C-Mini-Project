@@ -1,3 +1,3 @@
-ExpenseTracker
+## ExpenseTracker
 
-A console app that helps us keep track of personal budgets and expenses.
+An interactive console app that helps us keep track of personal budgets and expenses.
